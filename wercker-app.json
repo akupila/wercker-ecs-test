@@ -4,7 +4,7 @@
       "links": [
         "api"
       ],
-      "image": "wercker/frontend",
+      "image": "akupila/wercker_test",
       "essential": true,
       "portMappings": [
         {
